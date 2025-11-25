@@ -1,0 +1,41 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+/out
+
+# next.js build output
+.next/
+/dist/
+.env.local
+.env.production.local
+.env.development.local
+
+# Next.js specific caches
+.next/
+/dist
+/out
+.vercel
+
+# typescript or flow
+# tsconfig.tsbuildinfo
+
+# misc
+.DS_Store
+*.pem
+
+# debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# local development server
+/public
+/public/_next
