@@ -37,5 +37,4 @@ yarn-error.log*
 pnpm-debug.log*
 
 # local development server
-/public
 /public/_next
